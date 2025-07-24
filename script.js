@@ -124,3 +124,4 @@ playgame()
 // Ciseaux bat Papier
 
 console.log("test desktop github")
+console.log("test2 desktop github")
