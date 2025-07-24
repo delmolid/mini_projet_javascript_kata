@@ -122,3 +122,5 @@ playgame()
 // Pierre bat Ciseaux
 // Papier bat Pierre  
 // Ciseaux bat Papier
+
+console.log("test desktop github")
